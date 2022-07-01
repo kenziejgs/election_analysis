@@ -8,7 +8,7 @@ For this project, a Colorado Board of Elections employee has requested a simple 
 - Determine the winner of the election
 
 ## Resources
-- Data Source: [election_results.csv] (Resources/election_results.csv)
+- Data Source: [election_results.csv](Resources/election_results.csv)
 - Software: Python 3.9.12, Visual Source Code 1.68.1
 
 ## Summary
